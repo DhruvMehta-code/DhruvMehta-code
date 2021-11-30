@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhruvmehta3110@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/__mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__mehta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruvmehta3110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvmehta3110" height="30" width="40" /></a>
