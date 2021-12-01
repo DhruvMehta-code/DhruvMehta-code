@@ -7,6 +7,8 @@
 
 - 📫 How to reach me [here](mailto:dhruvmehta3110@gmail.com)
 
+- 📝 For More Information [about me](https://dhruvmehta-code.github.io/resume/)
+
 
 <p align="left">
 <a href="https://twitter.com/__mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__mehta" height="30" width="40" /></a>
