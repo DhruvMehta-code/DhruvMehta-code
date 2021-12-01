@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang & it's framework**
 
-- 📫 How to reach me **dhruvmehta3110@gmail.com**
+- 📫 How to reach me [here](mailto:dhruvmehta3110@gmail.com)
 
 
 <p align="left">
