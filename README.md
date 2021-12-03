@@ -21,3 +21,5 @@
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvMehta-code&count_private=true&show_icons=True&theme=tokyonight)](https://github.com/DhruvMehta-code/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvMehta-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
