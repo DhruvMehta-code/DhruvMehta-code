@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as intern and role is **Backend developer Golang**
 
-- 🌱 I’m currently learning **Golang & it's framework**
+- 🌱 I’m currently learning **Golang & architecture**
 
 - 📫 How to reach me [here](mailto:dhruvmehta3110@gmail.com)
 
