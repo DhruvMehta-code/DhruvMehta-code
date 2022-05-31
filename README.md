@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Mehta</h1>
 <h3 align="center">A passionate backend developer and open source enthusiast</h3>
 
-- 🔭 I’m currently working as intern and role is **Backend developer Golang**
+- 🔭 I’m currently working on personal project to know more about **GRPC**
 
 - 🌱 I’m currently learning **Golang & architecture**
 
